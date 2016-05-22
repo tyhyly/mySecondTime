@@ -1,0 +1,12 @@
+[
+{"img":"img/轮播图/banner1.jpg","desc":"山海经：一段奇妙的探险","href":"http://www.iqiyi.com/a_19rrhadzit.html"},
+{"img":"img/轮播图/banner2.jpg","desc":"跑男来了：校园中的我们","href":"http://www.iqiyi.com/a_19rrhaen1h.html"},
+{"img":"img/轮播图/banner3.jpg","desc":"美人鱼：邓超林允跨域情缘","href":"http://www.iqiyi.com/a_19rrhb8fjp.html"},
+{"img":"img/轮播图/banner4.jpg","desc":"最好的我们：重返青春时光","href":"http://www.iqiyi.com/a_19rrhbd6ad.html"},
+{"img":"img/轮播图/banner7.jpg","desc":"天天向上：更有意思的脑洞开","href":"http://www.iqiyi.com/a_19rrhaen1h.html"},
+{"img":"img/轮播图/banner11.jpg","desc":"奇葩说：世界该保留谎言吗？","href":"http://www.iqiyi.com/a_19rrhadzit.html"},
+{"img":"img/轮播图/banner8.jpg","desc":"功夫熊猫3：神龙大侠打怪升级","href":"http://www.iqiyi.com/v_19rrluo3zo.html"},
+{"img":"img/轮播图/banner6.jpg","desc":"武神赵子龙：最爱武侠","href":"http://www.iqiyi.com/a_19rrhaen1h.html"},
+{"img":"img/轮播图/banner9.jpg","desc":"《欢乐颂》型男装娘娘腔","href":"http://www.iqiyi.com/a_19rrhaen1h.html"},
+{"img":"img/轮播图/banner10.jpg","desc":"废柴兄弟4：无风不起浪","href":"http://www.iqiyi.com/a_19rrhak2t1.html"}
+]

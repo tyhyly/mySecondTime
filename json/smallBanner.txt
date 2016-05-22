@@ -1,0 +1,4 @@
+[
+{"img":"img/今日焦点—中部/focus_2pic1.jpg","href":"http://www.iqiyi.com/kszt/SZJfanmeeting.html"},
+{"img":"img/今日焦点—中部/focus_2pic2.jpg","href":"http://yule.iqiyi.com/pcb.html"}
+]
